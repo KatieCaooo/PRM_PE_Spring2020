@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThuCTSE63589</string>
+    <string-array name="statusArray">
+        <item>In Progress</item>
+        <item>Finished</item>
+    </string-array>
+</resources>

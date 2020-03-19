@@ -1,0 +1,6 @@
+D01 - Drink 1 - 600 - 0 - Mar. 18th, 2020 4:27:05pm
+D02 - Drink 2 - 500 - 1 - Mar. 18th, 2020 4:27:05pm
+D03 - Drink 3 - 400 - 0 - Mar. 18th, 2020 4:27:05pm
+D04 - Drink 4 - 300 - 1 - Mar. 18th, 2020 4:27:05pm
+D05 - Drink 5 - 200 - 0 - Mar. 18th, 2020 4:27:05pm
+D06 - Drink 6 - 100 - 1 - Mar. 18th, 2020 4:27:05pm
